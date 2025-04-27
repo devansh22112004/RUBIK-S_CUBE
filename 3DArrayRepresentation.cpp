@@ -1,5 +1,5 @@
 //
-// Created by srijan on 14-06-2024.
+// Created by devansh on 14-06-2024.
 //
 
 #include "BaseRubiksCube.h"
